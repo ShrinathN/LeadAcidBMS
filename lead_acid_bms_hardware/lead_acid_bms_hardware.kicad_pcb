@@ -1448,7 +1448,7 @@
       (net 10 "PROG_MISO") (pinfunction "MISO") (pintype "output") (tstamp 006452a1-d639-48e5-9761-d7277868c2bc))
     (pad "8" thru_hole circle (at 2.54 7.62) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 55 "NRF_IRQ") (pinfunction "IRQ") (pintype "output") (tstamp 7f18c918-325f-4ef5-91f3-3ef8234a5a40))
-    (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/nRF24L01_Breakout.wrl"
+    (model "${KIPRJMOD}/Custom Parts/3D Models/Battery-AGM_6V.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
